@@ -1,2 +1,9 @@
-# ansible-acl
-Ansible role to install the ACL package
+ACL
+=========
+
+Installs the ACL package so that Ansible can create temporary files.
+
+License
+-------
+
+Apache 2.0
